@@ -1,8 +1,8 @@
 # Hello 👋
 
-My name is Ole Herland and I'm a Full Stack developer from Norway 🇳🇴 
+My name is Ole Herland, and I'm a Full Stack developer from Norway 🇳🇴.
 
-You know when they say Full Stack developers are unicorns because they can do frontend, backend and infrastructure? Well, I've pushed that even further 🤪 I've founded and sold multiple companies and really been loving learning all I can from the process - as an example, I've done all the accounting for all the companies for many years 🤓 The insights you get from that is amazing!
+You know when they say Full Stack developers are unicorns because they can do frontend, backend, and infrastructure? Well, I've pushed that even further 🤪. I've founded and sold multiple companies and have really loved learning all I can from the process. As an example, I've managed all the accounting for these companies for many years 🤓. The insights you get from that are amazing!
 
 Does that make me a 🦄? I'll let you decide.
 
@@ -13,7 +13,7 @@ I'm in a love/hate relationship with my ![MacOS](https://img.shields.io/badge/Ma
 
 **Cloud and Infrastructure**
 
-My go to stack is ![Google Cloud](https://img.shields.io/badge/Gooogle%20Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4) in combination with ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326ce5) and ![CloudFlare](https://img.shields.io/badge/CloudFlare-informational?style=flat&logo=cloudflare&logoColor=white&color=f48120). I know my way around ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=333) and ![Azure](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6) as well, but I prefer GCP 🫶.
+My go to stack is ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4) in combination with ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326ce5) and ![CloudFlare](https://img.shields.io/badge/CloudFlare-informational?style=flat&logo=cloudflare&logoColor=white&color=f48120). I know my way around ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=333) and ![Azure](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6) as well, but I prefer GCP 🫶.
 
 If I'm building a blazingly fast website, then ![Vercel](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=black) is my go to, fo sho.
 

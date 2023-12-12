@@ -58,3 +58,7 @@ For mobile app development ![ReactNative](https://img.shields.io/badge/React%20N
 ## 📫 How to reach me
 - Twitter: [@oleherland](https://twitter.com/oleherland)
 - LinkedIn: [Ole Herland](https://www.linkedin.com/in/oleherland/)
+
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gogoro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

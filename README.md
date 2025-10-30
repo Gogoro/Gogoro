@@ -7,25 +7,25 @@ Crafting products while doing consulting gigs.
 
 ## Current situation
 
-### My own assets/products
+### My stuff
 
-- [Running iniva.no](https://iniva.no)
-- [Building Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
-- [Building PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/en/)
+- [My company Iniva AS](https://iniva.no)
+- [ERP to WooCommerce integration - Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
+- [PoS to WooCommerce integration - PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/en/)
 
 ### Consulting
 
-- [Consulting for lappeliten.no](https://lappeliten.no)
-- [Building Medbuddy](https://medbuddy.no)
-- [Maintaining NIBIO Fenologi](https://fenologi.nibio.no)
-- [Maintaining Naturoppdraget](https://naturoppdraget.no)
-- [Maintaining Kvitten](https://www.kvitten.no/)
+- [lappeliten.no](https://lappeliten.no)
+- [Medbuddy](https://medbuddy.no)
+- [NIBIO Fenologi](https://fenologi.nibio.no)
+- [Naturoppdraget](https://naturoppdraget.no)
+- [Kvitten](https://www.kvitten.no/)
 
 ### Misc for myself
 
-- [Writing at herland.me](https://herland.me)
-- [WooCommerce-dev](https://github.com/Iniva-AS/woocommerce-dev)
-- [Claude Marketplace](https://github.com/Gogoro/claude-marketplace)
+- [My blog/website - herland.me](https://herland.me)
+- [Quick startingpoint for WordPress/WooCommerce locally](https://github.com/Iniva-AS/woocommerce-dev)
+- [WIP my own Claude Code Marketplace](https://github.com/Gogoro/claude-marketplace)
 
 Past projects and businesses listed on my site [herland.me](https://herland.me)
 

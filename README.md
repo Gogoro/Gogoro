@@ -5,16 +5,27 @@ I’m a builder and I L.O.V.E technology.
 Building a new and stronger self.
 Crafting products while doing consulting gigs.
 
-## Current
+## Current situation
+
+### My own assets/products
+
+- [Running iniva.no](https://iniva.no)
+- [Building Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
+- [Building PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/en/)
+
+### Consulting
 
 - [Consulting for lappeliten.no](https://lappeliten.no)
-- [Building Quick3 for WooCommerce.no](https://quick3-for-woocommerce.no/en/)
 - [Building Medbuddy](https://medbuddy.no)
-- [Writing at herland.me](https://herland.me)
 - [Maintaining NIBIO Fenologi](https://fenologi.nibio.no)
 - [Maintaining Naturoppdraget](https://naturoppdraget.no)
 - [Maintaining Kvitten](https://www.kvitten.no/)
+
+### Misc for myself
+
+- [Writing at herland.me](https://herland.me)
 - [WooCommerce-dev](https://github.com/Iniva-AS/woocommerce-dev)
+- [Claude Marketplace](https://github.com/Gogoro/claude-marketplace)
 
 Past projects and businesses listed on my site [herland.me](https://herland.me)
 

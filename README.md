@@ -9,7 +9,7 @@ Crafting products while doing consulting gigs.
 
 ### My stuff
 
-- [My company Iniva AS](https://iniva.no)
+- [Iniva AS](https://iniva.no)
 - [ERP to WooCommerce integration - Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
 - [PoS to WooCommerce integration - PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/en/)
 

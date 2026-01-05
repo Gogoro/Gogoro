@@ -25,7 +25,7 @@ Crafting products while doing consulting gigs.
 
 - [My blog/website - herland.me](https://herland.me)
 - [Quick startingpoint for WordPress/WooCommerce locally](https://github.com/Iniva-AS/woocommerce-dev)
-- [WIP my own Claude Code Marketplace](https://github.com/Gogoro/claude-marketplace)
+- [My Claude Code Marketplace](https://github.com/Gogoro/cc-marketplace)
 
 Past projects and businesses listed on my site [herland.me](https://herland.me)
 

@@ -9,6 +9,7 @@ Crafting products while doing consulting gigs.
 
 ### My stuff
 
+- [Dictator Joe](https://github.com/Gogoro/dictator-joe) - A fast, multi-platform, open-source voice-to-text tool for developers
 - [Iniva AS](https://iniva.no)
 - [ERP to WooCommerce integration - Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
 - [PoS to WooCommerce integration - PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/)

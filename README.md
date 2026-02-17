@@ -9,17 +9,15 @@ Crafting products while doing consulting gigs.
 
 Built under [Iniva AS](https://iniva.no):
 
-- [Quick3 for WooCommerce](https://quick3-for-woocommerce.no/en/)
-  — Syncs products, inventory, orders, and customers between
-  Quick3 ERP and WooCommerce
 - [PCKasse for WooCommerce](https://pckasse-for-woocommerce.no/)
   — Syncs products, inventory, orders, and customers between
   PCKasse PoS and WooCommerce
+- [Quick3 for WooCommerce](https://quick3-for-woocommerce.no/en/)
+  — Syncs products, inventory, orders, and customers between
+  Quick3 ERP and WooCommerce
 
 ## Open Source
 
-- [Dictator Joe](https://github.com/Gogoro/dictator-joe)
-  — Fast, multi-platform voice-to-text tool for developers
 - [WooCommerce Dev](https://github.com/Iniva-AS/woocommerce-dev)
   — Quick starting point for local WordPress/WooCommerce dev
 - [Claude Code Marketplace](https://github.com/Gogoro/cc-marketplace)

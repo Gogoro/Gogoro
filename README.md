@@ -1,41 +1,45 @@
 # Hello 👋
 
-I’m a builder and I L.O.V.E technology.
+I'm a builder and I L.O.V.E technology.
 
 Building a new and stronger self.
 Crafting products while doing consulting gigs.
 
-## Current situation
+## Products
 
-### My stuff
+Built under [Iniva AS](https://iniva.no):
 
-- [Dictator Joe](https://github.com/Gogoro/dictator-joe) - A fast, multi-platform, open-source voice-to-text tool for developers
-- [Iniva AS](https://iniva.no)
-- [ERP to WooCommerce integration - Quick3-for-WooCommerce.no](https://quick3-for-woocommerce.no/en/)
-- [PoS to WooCommerce integration - PCKasse-for-WooCommerce.no](https://pckasse-for-woocommerce.no/)
-
-### Consulting
-
-- [lappeliten.no](https://lappeliten.no)
-- [Medbuddy](https://medbuddy.no)
-- [NIBIO Fenologi](https://fenologi.nibio.no)
-- [Naturoppdraget](https://naturoppdraget.no)
-- [Kvitten](https://www.kvitten.no/)
-
-### Misc for myself
-
-- [My blog/website - herland.me](https://herland.me)
-- [Quick startingpoint for WordPress/WooCommerce locally](https://github.com/Iniva-AS/woocommerce-dev)
-- [My Claude Code Marketplace](https://github.com/Gogoro/cc-marketplace)
-
-Past projects and businesses listed on my site [herland.me](https://herland.me)
+- [Quick3 for WooCommerce](https://quick3-for-woocommerce.no/en/)
+  — Syncs products, inventory, orders, and customers between
+  Quick3 ERP and WooCommerce
+- [PCKasse for WooCommerce](https://pckasse-for-woocommerce.no/)
+  — Syncs products, inventory, orders, and customers between
+  PCKasse PoS and WooCommerce
 
 ## Open Source
 
-Some, but limited until I got my own products ironed out.
+- [Dictator Joe](https://github.com/Gogoro/dictator-joe)
+  — Fast, multi-platform voice-to-text tool for developers
+- [WooCommerce Dev](https://github.com/Iniva-AS/woocommerce-dev)
+  — Quick starting point for local WordPress/WooCommerce dev
+- [Claude Code Marketplace](https://github.com/Gogoro/cc-marketplace)
+  — Plugins for Claude Code: git workflows, notifications,
+  session tools, and code review agents
+
+## Consulting
+
+- [Lappeliten](https://lappeliten.no) — Children's clothing brand
+- [NIBIO Fenologi](https://fenologi.nibio.no)
+  — Phenology data collection across Nordic schools
+- [Naturoppdraget](https://naturoppdraget.no)
+  — Nature education program for kindergarten children
+
+Past projects and businesses listed on
+[herland.me](https://herland.me).
 
 ## 📫 Get in touch
 
+- Website: [herland.me](https://herland.me)
 - Twitter: [@oleherland](https://twitter.com/oleherland)
 
 ## 🏆 Trophies

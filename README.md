@@ -19,11 +19,9 @@ that are simple, useful, and hold up over time.
 
 ## Open Source
 
-- [WooCommerce Dev](https://github.com/Iniva-AS/woocommerce-dev)
-  — Quick starting point for local WordPress/WooCommerce dev
-- [Claude Code Marketplace](https://github.com/Gogoro/cc-marketplace)
-  — Plugins for Claude Code: git workflows, notifications,
-  session tools, and code review agents
+- [Rizz](https://github.com/Gogoro/rizz)
+  — A TUI for reviewing your own diffs before committing.
+  Like GitHub's Files Changed tab, but cozy and in your terminal ✨
 
 ## Consulting
 

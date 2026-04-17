@@ -1,20 +1,21 @@
-# Hello 👋
+# Hi, I'm Ole Herland 👋
 
-I'm a builder and I L.O.V.E technology.
+Founder of [Iniva](https://iniva.no) — a small software studio where we
+build our own products and take on a limited amount of consulting.
 
-Building a new and stronger self.
-Crafting products while doing consulting gigs.
+I craft products, write about software, and obsess over building things
+that are simple, useful, and hold up over time.
 
 ## Products
 
-Built under [Iniva AS](https://iniva.no):
-
+- [Odett](https://herland.me/projects/odett)
+  — A new product taking shape. Details coming soon
 - [PCKasse for WooCommerce](https://pckasse-for-woocommerce.no/)
-  — Syncs products, inventory, orders, and customers between
-  PCKasse PoS and WooCommerce
+  — Self-service integration that connects PCKasse point-of-sale
+  with WooCommerce stores
 - [Quick3 for WooCommerce](https://quick3-for-woocommerce.no/en/)
-  — Syncs products, inventory, orders, and customers between
-  Quick3 ERP and WooCommerce
+  — WordPress plugin that syncs Quick3 ERP with WooCommerce.
+  Products, prices, and inventory — always up to date
 
 ## Open Source
 
@@ -26,7 +27,9 @@ Built under [Iniva AS](https://iniva.no):
 
 ## Consulting
 
-- [Lappeliten](https://lappeliten.no) — Children's clothing brand
+- [Lappeliten](https://lappeliten.no)
+  — Full-stack consulting — rebuilding the tech stack for this
+  global name-label business
 - [NIBIO Fenologi](https://fenologi.nibio.no)
   — Phenology data collection across Nordic schools
 - [Naturoppdraget](https://naturoppdraget.no)
@@ -38,7 +41,9 @@ Past projects and businesses listed on
 ## 📫 Get in touch
 
 - Website: [herland.me](https://herland.me)
-- Twitter: [@oleherland](https://twitter.com/oleherland)
+- Writing: [herland.me/blog](https://herland.me/blog)
+- X: [@oleherland](https://x.com/oleherland)
+- LinkedIn: [oleherland](https://www.linkedin.com/in/oleherland/)
 
 ## 🏆 Trophies
 

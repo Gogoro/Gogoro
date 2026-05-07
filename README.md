@@ -29,6 +29,9 @@ Word-doc feel for your notes, no forever-long lines
 
 ## Consulting
 
+- [Veniro](https://veniro.no)
+  — Sub-consulting for a range of their clients across
+  full-stack web work
 - [Lappeliten](https://lappeliten.no)
   — Full-stack consulting — rebuilding the tech stack for this
   global name-label business

@@ -19,9 +19,12 @@ that are simple, useful, and hold up over time.
 
 ## Open Source
 
-- [Rizz](https://github.com/Gogoro/rizz)
+- [rizz.sh](https://github.com/Gogoro/rizz)
   — A TUI for reviewing your own diffs before committing.
   Like GitHub's Files Changed tab, but cozy and in your terminal ✨
+- [marg.sh](https://github.com/Gogoro/marg.sh)
+  — A terminal markdown editor with vim keys and soft-wrapped prose.
+  Word-doc feel for your notes, no forever-long lines
 
 ## Consulting
 
